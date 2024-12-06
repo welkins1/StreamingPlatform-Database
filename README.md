@@ -1,7 +1,5 @@
 # StreamingPlatform-Database 🖥️
 
-This is a mock database schema that I, along with @Jerjoham, @kickrockz2912, and @j_saini@uncg.edu, created for a group project assignment for ISM 218—Database Systems.
-
 This repository contains a mock database schema designed for a streaming platform such as Netflix (although Netflix probably has a much larger schema than ours). Drafting and visualizing the relational schema using an ER diagram and relational schema was fun. The database captures aspects of a streaming platform, such as users, TV shows, movies, genres, subscriptions, and progress tracking.
 
 The schema consists of numerous interconnected tables to simulate the functionality of a streaming service database. 
