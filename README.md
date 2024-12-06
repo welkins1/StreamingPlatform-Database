@@ -49,4 +49,4 @@ ERDPlus.com was also used to create the ER diagram and relational schema.
 
 # Setup ⚙️
 Import the ```StreamingPlatform.SQL``` file into your MySQL environment.
-Run the script to create the ```StreamingPlatform ```schema and its associated tables. You Populate the tables with sample data to simulate a working streaming platform.
+Run the script to create the ```StreamingPlatform```schema and its associated tables. You Populate the tables with sample data to simulate a working streaming platform.
